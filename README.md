@@ -21,7 +21,7 @@ Steps are to be completed under the div with `id="exercise1"`
 Steps are to be completed under the div with `id="exercise2"`
 
 1. Create an **unordered list** element
-2. Create three **list item** elements nested inside of the **unordered list** that your just created
+2. Create three **list item** elements nested inside of the **unordered list** that you just created
 3. Create an **anchor** element inside of _each_ **list item** that you just created in your **unordered list**
 4. Each **anchor** element should link to the following:
    - The first **anchor** element should link to your _LinkedIn profile_
@@ -41,10 +41,10 @@ Steps are to be completed under the div with `id="exercise3"`
 Steps are to be completed under the div with `id="exercise4"`
 
 1. Edit the **paragraph** element's text content so that:
-   - the word "span" is enclosed in a **span** element
-   - the word "underlined" is enclosed in an **underline** element
-   - the word "italicized" is enclosed in an **emphasis** element
-   - the word "bolded" is enclosed in an **strong** element
+   - the word "Bredon" is enclosed in a **span** element
+   - the word "play" is enclosed in an **underline** element
+   - the word "beautiful" is enclosed in an **emphasis** element
+   - the word "point" is enclosed in an **strong** element
 
 ## Exercise 5
 
